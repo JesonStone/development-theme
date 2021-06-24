@@ -1,17 +1,25 @@
-## zznode theme command line
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: Jeson
+ * @Date: 2019-12-15 15:10:30
+ * @LastEditors: Jeson
+ * @LastEditTime: 2021-06-21 16:17:29
+-->
+## yyy theme command line
 
 ### usage
 
-#### npm install -g zznode-cli
+#### npm install -g yyy-cli
 
 ### View help commands
 
-#### zznode help
+#### yyy help
 
 ### View System Development Library Installation Commands
 
-#### zznode info/f
+#### yyy info/f
 
 ### System Development Library Installation Command
 
-#### zznode init/i
+#### yyy init/i
